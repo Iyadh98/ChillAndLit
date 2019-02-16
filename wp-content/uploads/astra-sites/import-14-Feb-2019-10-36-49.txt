@@ -1,0 +1,590 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Darwin
+Software 		: Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.10 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0
+MySQL version 		: 5.7.23
+XML Reader 		: Yes
+PHP Version 		: 7.2.10
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 8M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 8 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/Paris
+
+-----
+
+Importing Started! - 22:38:11 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 22:38:12 UTC
+
+---
+
+2. Importing "XML"  - 22:38:16 UTC
+Failed to import astra-site-page-builder Beaver Builder
+Taxonomie non valide.
+Failed to import astra-site-page-builder Brizy
+Taxonomie non valide.
+Failed to import astra-site-page-builder Elementor
+Taxonomie non valide.
+Failed to import astra-sites-type Free
+Taxonomie non valide.
+Failed to import astra-sites-type Premium
+Taxonomie non valide.
+Fichier média "lemon-bag-1-free-img" already exists.
+Fichier média "lemon-bag-2-free-img" already exists.
+Fichier média "lemon-bag-3-free-img" already exists.
+Fichier média "bright-purse-1-free-img" already exists.
+Fichier média "bright-purse-2-free-img" already exists.
+Fichier média "bright-purse-3-free-img" already exists.
+Fichier média "black-over-the-shoulder-bag-1-free-img" already exists.
+Fichier média "black-over-the-shoulder-bag-free-img" already exists.
+Fichier média "light-brown-clutch-2-free-img" already exists.
+Fichier média "blue-wind-breaker-1-free-img" already exists.
+Fichier média "blue-wind-breaker-2-free-img" already exists.
+Fichier média "aqua-wind-breaker-1-free-img" already exists.
+Fichier média "aqua-wind-breaker-2-free-img" already exists.
+Fichier média "aqua-wind-breaker-3-free-img" already exists.
+Fichier média "green-wind-breaker-1-free-img" already exists.
+Fichier média "green-wind-breaker-2-free-img" already exists.
+Fichier média "aqua-tshirt-free-img" already exists.
+Fichier média "blue-tshirt-free-img" already exists.
+Fichier média "dark-green-tshirt-free-img" already exists.
+Fichier média "dark-purple-tshirt-free-img" already exists.
+Fichier média "green-tshirt-free-img" already exists.
+Fichier média "purple-tshirt-free-img" already exists.
+Fichier média "buddha-bracelet-side-free-img" already exists.
+Fichier média "buddha-bracelet-top-free-img" already exists.
+Fichier média "anchor-bracelet-black-free-img" already exists.
+Fichier média "anchor-bracelet-blue-free-img" already exists.
+Fichier média "anchor-bracelet-brown-free-img" already exists.
+Fichier média "anchor-bracelet-red-free-img" already exists.
+Fichier média "boho-bangle-bracelet-side-free-img" already exists.
+Fichier média "boho-bangle-bracelet-top-free-img" already exists.
+Fichier média "about-banner-free-img" already exists.
+Fichier média "black-sleevless-1-free-img" already exists.
+Fichier média "black-sleevless-2-free-img" already exists.
+Fichier média "blue-sleev-tshirt-1-free-img" already exists.
+Fichier média "blue-sleev-tshirt-2-free-img" already exists.
+Fichier média "white-sleevless-1-free-img" already exists.
+Fichier média "white-sleevless-2-free-img" already exists.
+Fichier média "white-top-1-free-img" already exists.
+Fichier média "white-top-2-free-img" already exists.
+Fichier média "torn-jeans-1-free-img" already exists.
+Fichier média "torn-jeans-2-free-img" already exists.
+Fichier média "spring-jacket-1-free-img" already exists.
+Fichier média "spring-jacket-2-free-img" already exists.
+Fichier média "basic-blue-jeans-1-free-img" already exists.
+Fichier média "basic-blue-jeans-2-free-img" already exists.
+Fichier média "black-washed-1-free-img" already exists.
+Fichier média "black-washed-2-free-img" already exists.
+Fichier média "blue-denim-1-free-img" already exists.
+Fichier média "blue-denim-2-free-img" already exists.
+Fichier média "blue-men-shoes-1-free-img" already exists.
+Fichier média "blue-men-shoes-2-free-img" already exists.
+Fichier média "brown-men-shoes-1-free-img" already exists.
+Fichier média "brown-men-shoes-2-free-img" already exists.
+Fichier média "gray-men-shoes-1-free-img" already exists.
+Fichier média "gray-men-shoes-2-free-img" already exists.
+Fichier média "white-shoes-with-led-1-free-img" already exists.
+Fichier média "white-shoes-with-led-2-free-img" already exists.
+Fichier média "men-fashion-free-img" already exists.
+Fichier média "women-fashion-free-img" already exists.
+Fichier média "accessories-free-img" already exists.
+Fichier média "footwear-free-img" already exists.
+Fichier média "about-bg-free-img" already exists.
+Fichier média "about-bg-free-img" already exists.
+Fichier média "brown-blazer-jacket-1-free-img" already exists.
+Fichier média "brown-blazer-jacket-2-free-img" already exists.
+Fichier média "brown-blazer-jacket-3-free-img" already exists.
+Fichier média "black-shoes-green-led-1-free-img" already exists.
+Fichier média "black-shoes-green-led-2-free-img" already exists.
+Fichier média "fitness-band-free-img" already exists.
+Fichier média "women-jacket-free-img" already exists.
+Fichier média "blue-basic-jeans-1-free-img" already exists.
+Fichier média "blue-basic-jeans-2-free-img" already exists.
+Fichier média "gray-basic-jeans-2-free-img" already exists.
+Fichier média "gray-basic-jeans-1-free-img" already exists.
+Fichier média "blue-jeans-1-free-img" already exists.
+Fichier média "blue-jeans-2-free-img" already exists.
+Fichier média "brown-basic-top-1-free-img" already exists.
+Fichier média "brown-basic-top-2-free-img" already exists.
+Fichier média "light-brown-clutch-1-free-img" already exists.
+Fichier média "torn-jeans-1-free-img-1" already exists.
+Fichier média "torn-jeans-2-free-img-1" already exists.
+Fichier média "torn-jeans-3-free-img" already exists.
+Fichier média "yellow-basic-top-2-free-img" already exists.
+Fichier média "yellow-basic-top-1-free-img" already exists.
+Fichier média "white-basic-top-1-free-img" already exists.
+Fichier média "white-basic-top-2-free-img" already exists.
+Fichier média "appstore-free-img" already exists.
+Fichier média "playstore-free-img" already exists.
+Fichier média "home-new-bg-free-img" already exists.
+Fichier média "contact-bg-free-img" already exists.
+Fichier média "globe-free-img" already exists.
+Fichier média "lock-free-img" already exists.
+Fichier média "quality-free-img" already exists.
+Fichier média "tag-free-img" already exists.
+Fichier média "client1-free-img" already exists.
+Fichier média "brand1-free-img" already exists.
+Fichier média "brand2-free-img" already exists.
+Fichier média "brand4-free-img" already exists.
+Fichier média "brand6-free-img" already exists.
+Fichier média "demo-screenshot-free-img" already exists.
+Fichier média "testimonials-free-img" already exists.
+Fichier média "woo-endpoints-bg-free-img" already exists.
+Fichier média "testimonials-free-img" already exists.
+Fichier média "testimonials-free-img" already exists.
+Fichier média "accessories-fashion-free-img" already exists.
+Fichier média "mens-fashion-free-img" already exists.
+Fichier média "shoes-fashion-free-omg" already exists.
+Fichier média "womens-fashion-free-img" already exists.
+Fichier média "testimonials-free-img" already exists.
+Fichier média "team1-free-img" already exists.
+Fichier média "team2-free-img" already exists.
+Fichier média "team3-free-img" already exists.
+Fichier média "team4free-img" already exists.
+Fichier média "team5-free-img" already exists.
+Fichier média "team6-free-img" already exists.
+Fichier média "slide-image-free-img" already exists.
+Fichier média "brand7-free-img" already exists.
+Fichier média "logo@2x-free-img" already exists.
+Fichier média "logo1@2x-free-img" already exists.
+Fichier média "logo1-free-img" already exists.
+Élément de menu de navigation "" already exists.
+CSS personnalisé "astra" already exists.
+Élément de menu de navigation "" already exists.
+Élément de menu de navigation "" already exists.
+Élément de menu de navigation "" already exists.
+Élément de menu de navigation "" already exists.
+Élément de menu de navigation "" already exists.
+Élément de menu de navigation "" already exists.
+Élément de menu de navigation "" already exists.
+Élément de menu de navigation "" already exists.
+Élément de menu de navigation "Men Jeans" already exists.
+Élément de menu de navigation "Men Shirts" already exists.
+Élément de menu de navigation "Men Shoes" already exists.
+Élément de menu de navigation "Men Accessories" already exists.
+Élément de menu de navigation "Men Jackets" already exists.
+Élément de menu de navigation "Women Jeans" already exists.
+Élément de menu de navigation "Tops and Shirts" already exists.
+Élément de menu de navigation "Women Jackets" already exists.
+Fichier média "logo-free-img" already exists.
+Fichier média "favicon-free-img" already exists.
+Page "Home" already exists.
+Page "Store" already exists.
+Page "Cart" already exists.
+Page "Checkout" already exists.
+Page "My account" already exists.
+Page "About" already exists.
+Imported "Lemon Bag" (Produit)
+Post 79 remapped to 847
+Imported "Bright Purse With Chain" (Produit)
+Post 86 remapped to 848
+Imported "Black Over-the-shoulder Handbag" (Produit)
+Post 95 remapped to 849
+Imported "Light Brown Clutch" (Produit)
+Post 109 remapped to 850
+Imported "Blue Wind Breaker" (Produit)
+Post 112 remapped to 851
+Imported "Green Wind Breaker" (Produit)
+Post 115 remapped to 852
+Imported "Aqua Wind Breaker" (Produit)
+Post 121 remapped to 853
+Page "Contact Us" already exists.
+Élément de menu de navigation "Heels and Flats" already exists.
+Élément de menu de navigation "Women Accessories" already exists.
+Élément de menu de navigation "" already exists.
+Élément de menu de navigation "Account" already exists.
+Élément de menu de navigation "" already exists.
+Élément de menu de navigation "" already exists.
+Imported "DNK Tshirt" (Produit)
+Post 132 remapped to 854
+Imported "DNK Cross Tshirt" (Produit)
+Post 142 remapped to 855
+Imported "Buddha Bracelet" (Produit)
+Post 157 remapped to 856
+Imported "Anchor Bracelet" (Produit)
+Post 160 remapped to 857
+Imported "Boho Bangle Bracelet" (Produit)
+Post 169 remapped to 858
+Imported "White Top" (Produit)
+Post 194 remapped to 859
+Imported "Yellow Basic Top" (Produit)
+Post 209 remapped to 860
+Imported "White Sleevless Top" (Produit)
+Post 210 remapped to 861
+Imported "White Basic Sleevless Top" (Produit)
+Post 211 remapped to 862
+Imported "Brown basic Top" (Produit)
+Post 212 remapped to 863
+Imported "Basic Blue Jeans" (Produit)
+Post 229 remapped to 864
+Imported "Torn Blue Jeans" (Produit)
+Post 242 remapped to 865
+Imported "Basic Gray Blue Jeans" (Produit)
+Post 247 remapped to 866
+Imported "Blue Denim Jeans" (Produit)
+Post 252 remapped to 867
+Imported "Black Jacket" (Produit)
+Post 307 remapped to 868
+Imported "DNK Black Shoes Green LED" (Produit)
+Post 316 remapped to 869
+Imported "Brown Blazer Jacket" (Produit)
+Post 319 remapped to 870
+Imported "Basic Blue Jeans" (Produit)
+Post 324 remapped to 871
+Imported "Black Washed Jeans" (Produit)
+Post 340 remapped to 872
+Imported "Blue Denim Jeans" (Produit)
+Post 345 remapped to 873
+Imported "GET15OFF" (Code promo)
+Post 104 remapped to 874
+Variations "Torn Blue Jeans - 36" already exists.
+Variations "DNK Cross Tshirt - L, Green" already exists.
+Imported "Torn Blue Jeans" (Produit)
+Post 349 remapped to 875
+Imported "DNK Blue Sport Shoes" (Produit)
+Post 360 remapped to 876
+Imported "DNK Brown Shoes" (Produit)
+Post 361 remapped to 877
+Imported "DNK Gray Shoes" (Produit)
+Post 362 remapped to 878
+Imported "DNK White Shoes with LED" (Produit)
+Post 375 remapped to 879
+Imported "Order – December 17, 2018 @ 12:40 PM" (Commande)
+Post 765 remapped to 880
+Imported "Order – December 27, 2018 @ 12:38 PM" (Commande)
+Post 770 remapped to 881
+Imported "Order – December 31, 2018 @ 11:55 AM" (Commande)
+Post 790 remapped to 882
+Imported "Order – December 31, 2018 @ 11:56 AM" (Commande)
+Post 791 remapped to 883
+Imported "Order – January 2, 2019 @ 10:53 AM" (Commande)
+Post 795 remapped to 884
+Imported "Order – January 2, 2019 @ 12:18 PM" (Commande)
+Post 799 remapped to 885
+Imported "Order – January 11, 2019 @ 09:46 AM" (Commande)
+Post 805 remapped to 886
+Imported "Order – January 12, 2019 @ 12:53 PM" (Commande)
+Post 806 remapped to 887
+Imported "Order – January 18, 2019 @ 11:21 PM" (Commande)
+Post 809 remapped to 888
+Imported "Order – January 21, 2019 @ 05:59 PM" (Commande)
+Post 810 remapped to 889
+Imported "Order – January 30, 2019 @ 09:17 AM" (Commande)
+Post 818 remapped to 890
+Imported "Order – February 2, 2019 @ 03:33 PM" (Commande)
+Post 830 remapped to 891
+Imported "Contact form" (Formulaire de contact)
+Post 415 remapped to 892
+Imported "Order – December 26, 2018 @ 08:43 AM" (Commande)
+Post 769 remapped to 893
+Imported "Order – January 25, 2019 @ 07:12 PM" (Commande)
+Post 811 remapped to 894
+Imported "Order – January 30, 2019 @ 06:16 PM" (Commande)
+Post 823 remapped to 895
+Imported "Order – February 3, 2019 @ 05:35 AM" (Commande)
+Post 832 remapped to 896
+Imported "Order – February 4, 2019 @ 06:42 AM" (Commande)
+Post 833 remapped to 897
+Imported "Order – February 4, 2019 @ 06:43 AM" (Commande)
+Post 834 remapped to 898
+Running post-processing for post 847
+Could not find the author for "Lemon Bag" (post #847)
+Post 847 was imported with author "harshadd", but could not be found
+Post 847 was marked for post-processing, but none was required.
+Running post-processing for post 848
+Could not find the author for "Bright Purse With Chain" (post #848)
+Post 848 was imported with author "harshadd", but could not be found
+Post 848 was marked for post-processing, but none was required.
+Running post-processing for post 849
+Could not find the author for "Black Over-the-shoulder Handbag" (post #849)
+Post 849 was imported with author "harshadd", but could not be found
+Post 849 was marked for post-processing, but none was required.
+Running post-processing for post 850
+Could not find the author for "Light Brown Clutch" (post #850)
+Post 850 was imported with author "harshadd", but could not be found
+Post 850 was marked for post-processing, but none was required.
+Running post-processing for post 851
+Could not find the author for "Blue Wind Breaker" (post #851)
+Post 851 was imported with author "harshadd", but could not be found
+Post 851 was marked for post-processing, but none was required.
+Running post-processing for post 852
+Could not find the author for "Green Wind Breaker" (post #852)
+Post 852 was imported with author "harshadd", but could not be found
+Post 852 was marked for post-processing, but none was required.
+Running post-processing for post 853
+Could not find the author for "Aqua Wind Breaker" (post #853)
+Post 853 was imported with author "harshadd", but could not be found
+Post 853 was marked for post-processing, but none was required.
+Running post-processing for post 854
+Could not find the author for "DNK Tshirt" (post #854)
+Post 854 was imported with author "harshadd", but could not be found
+Post 854 was marked for post-processing, but none was required.
+Running post-processing for post 855
+Could not find the author for "DNK Cross Tshirt" (post #855)
+Post 855 was imported with author "harshadd", but could not be found
+Post 855 was marked for post-processing, but none was required.
+Running post-processing for post 856
+Could not find the author for "Buddha Bracelet" (post #856)
+Post 856 was imported with author "harshadd", but could not be found
+Post 856 was marked for post-processing, but none was required.
+Running post-processing for post 857
+Could not find the author for "Anchor Bracelet" (post #857)
+Post 857 was imported with author "harshadd", but could not be found
+Post 857 was marked for post-processing, but none was required.
+Running post-processing for post 858
+Could not find the author for "Boho Bangle Bracelet" (post #858)
+Post 858 was imported with author "harshadd", but could not be found
+Post 858 was marked for post-processing, but none was required.
+Running post-processing for post 859
+Could not find the author for "White Top" (post #859)
+Post 859 was imported with author "harshadd", but could not be found
+Post 859 was marked for post-processing, but none was required.
+Running post-processing for post 860
+Could not find the author for "Yellow Basic Top" (post #860)
+Post 860 was imported with author "harshadd", but could not be found
+Post 860 was marked for post-processing, but none was required.
+Running post-processing for post 861
+Could not find the author for "White Sleevless Top" (post #861)
+Post 861 was imported with author "harshadd", but could not be found
+Post 861 was marked for post-processing, but none was required.
+Running post-processing for post 862
+Could not find the author for "White Basic Sleevless Top" (post #862)
+Post 862 was imported with author "harshadd", but could not be found
+Post 862 was marked for post-processing, but none was required.
+Running post-processing for post 863
+Could not find the author for "Brown basic Top" (post #863)
+Post 863 was imported with author "harshadd", but could not be found
+Post 863 was marked for post-processing, but none was required.
+Running post-processing for post 864
+Could not find the author for "Basic Blue Jeans" (post #864)
+Post 864 was imported with author "harshadd", but could not be found
+Post 864 was marked for post-processing, but none was required.
+Running post-processing for post 865
+Could not find the author for "Torn Blue Jeans" (post #865)
+Post 865 was imported with author "harshadd", but could not be found
+Post 865 was marked for post-processing, but none was required.
+Running post-processing for post 866
+Could not find the author for "Basic Gray Blue Jeans" (post #866)
+Post 866 was imported with author "harshadd", but could not be found
+Post 866 was marked for post-processing, but none was required.
+Running post-processing for post 867
+Could not find the author for "Blue Denim Jeans" (post #867)
+Post 867 was imported with author "harshadd", but could not be found
+Post 867 was marked for post-processing, but none was required.
+Running post-processing for post 868
+Could not find the author for "Black Jacket" (post #868)
+Post 868 was imported with author "harshadd", but could not be found
+Post 868 was marked for post-processing, but none was required.
+Running post-processing for post 869
+Could not find the author for "DNK Black Shoes Green LED" (post #869)
+Post 869 was imported with author "harshadd", but could not be found
+Post 869 was marked for post-processing, but none was required.
+Running post-processing for post 870
+Could not find the author for "Brown Blazer Jacket" (post #870)
+Post 870 was imported with author "harshadd", but could not be found
+Post 870 was marked for post-processing, but none was required.
+Running post-processing for post 871
+Could not find the author for "Basic Blue Jeans" (post #871)
+Post 871 was imported with author "harshadd", but could not be found
+Post 871 was marked for post-processing, but none was required.
+Running post-processing for post 872
+Could not find the author for "Black Washed Jeans" (post #872)
+Post 872 was imported with author "harshadd", but could not be found
+Post 872 was marked for post-processing, but none was required.
+Running post-processing for post 873
+Could not find the author for "Blue Denim Jeans" (post #873)
+Post 873 was imported with author "harshadd", but could not be found
+Post 873 was marked for post-processing, but none was required.
+Running post-processing for post 874
+Could not find the author for "GET15OFF" (post #874)
+Post 874 was imported with author "harshadd", but could not be found
+Post 874 was marked for post-processing, but none was required.
+Running post-processing for post 875
+Could not find the author for "Torn Blue Jeans" (post #875)
+Post 875 was imported with author "harshadd", but could not be found
+Post 875 was marked for post-processing, but none was required.
+Running post-processing for post 876
+Could not find the author for "DNK Blue Sport Shoes" (post #876)
+Post 876 was imported with author "harshadd", but could not be found
+Post 876 was marked for post-processing, but none was required.
+Running post-processing for post 877
+Could not find the author for "DNK Brown Shoes" (post #877)
+Post 877 was imported with author "harshadd", but could not be found
+Post 877 was marked for post-processing, but none was required.
+Running post-processing for post 878
+Could not find the author for "DNK Gray Shoes" (post #878)
+Post 878 was imported with author "harshadd", but could not be found
+Post 878 was marked for post-processing, but none was required.
+Running post-processing for post 879
+Could not find the author for "DNK White Shoes with LED" (post #879)
+Post 879 was imported with author "harshadd", but could not be found
+Post 879 was marked for post-processing, but none was required.
+Running post-processing for post 880
+Could not find the author for "Order &ndash; décembre 17, 2018 @ 12:40" (post #880)
+Post 880 was imported with author "brainstormforce", but could not be found
+Post 880 was marked for post-processing, but none was required.
+Running post-processing for post 881
+Could not find the author for "Order &ndash; décembre 27, 2018 @ 12:38" (post #881)
+Post 881 was imported with author "brainstormforce", but could not be found
+Post 881 was marked for post-processing, but none was required.
+Running post-processing for post 882
+Could not find the author for "Order &ndash; décembre 31, 2018 @ 11:55" (post #882)
+Post 882 was imported with author "brainstormforce", but could not be found
+Post 882 was marked for post-processing, but none was required.
+Running post-processing for post 883
+Could not find the author for "Order &ndash; décembre 31, 2018 @ 11:56" (post #883)
+Post 883 was imported with author "brainstormforce", but could not be found
+Post 883 was marked for post-processing, but none was required.
+Running post-processing for post 884
+Could not find the author for "Order &ndash; janvier 2, 2019 @ 10:53" (post #884)
+Post 884 was imported with author "brainstormforce", but could not be found
+Post 884 was marked for post-processing, but none was required.
+Running post-processing for post 885
+Could not find the author for "Order &ndash; janvier 2, 2019 @ 12:18" (post #885)
+Post 885 was imported with author "brainstormforce", but could not be found
+Post 885 was marked for post-processing, but none was required.
+Running post-processing for post 886
+Could not find the author for "Order &ndash; janvier 11, 2019 @ 09:46" (post #886)
+Post 886 was imported with author "brainstormforce", but could not be found
+Post 886 was marked for post-processing, but none was required.
+Running post-processing for post 887
+Could not find the author for "Order &ndash; janvier 12, 2019 @ 12:53" (post #887)
+Post 887 was imported with author "brainstormforce", but could not be found
+Post 887 was marked for post-processing, but none was required.
+Running post-processing for post 888
+Could not find the author for "Order &ndash; janvier 18, 2019 @ 11:21" (post #888)
+Post 888 was imported with author "brainstormforce", but could not be found
+Post 888 was marked for post-processing, but none was required.
+Running post-processing for post 889
+Could not find the author for "Order &ndash; janvier 21, 2019 @ 05:59" (post #889)
+Post 889 was imported with author "brainstormforce", but could not be found
+Post 889 was marked for post-processing, but none was required.
+Running post-processing for post 890
+Could not find the author for "Order &ndash; janvier 30, 2019 @ 09:17" (post #890)
+Post 890 was imported with author "brainstormforce", but could not be found
+Post 890 was marked for post-processing, but none was required.
+Running post-processing for post 891
+Could not find the author for "Order &ndash; février 2, 2019 @ 03:33" (post #891)
+Post 891 was imported with author "brainstormforce", but could not be found
+Post 891 was marked for post-processing, but none was required.
+Running post-processing for post 892
+Could not find the author for "Contact form" (post #892)
+Post 892 was imported with author "harshadd", but could not be found
+Post 892 was marked for post-processing, but none was required.
+Running post-processing for post 893
+Could not find the author for "Order &ndash; décembre 26, 2018 @ 08:43" (post #893)
+Post 893 was imported with author "brainstormforce", but could not be found
+Post 893 was marked for post-processing, but none was required.
+Running post-processing for post 894
+Could not find the author for "Order &ndash; janvier 25, 2019 @ 07:12" (post #894)
+Post 894 was imported with author "brainstormforce", but could not be found
+Post 894 was marked for post-processing, but none was required.
+Running post-processing for post 895
+Could not find the author for "Order &ndash; janvier 30, 2019 @ 06:16" (post #895)
+Post 895 was imported with author "brainstormforce", but could not be found
+Post 895 was marked for post-processing, but none was required.
+Running post-processing for post 896
+Could not find the author for "Order &ndash; février 3, 2019 @ 05:35" (post #896)
+Post 896 was imported with author "brainstormforce", but could not be found
+Post 896 was marked for post-processing, but none was required.
+Running post-processing for post 897
+Could not find the author for "Order &ndash; février 4, 2019 @ 06:42" (post #897)
+Post 897 was imported with author "brainstormforce", but could not be found
+Post 897 was marked for post-processing, but none was required.
+Running post-processing for post 898
+Could not find the author for "Order &ndash; février 4, 2019 @ 06:43" (post #898)
+Post 898 was imported with author "brainstormforce", but could not be found
+Post 898 was marked for post-processing, but none was required.
+Could not find the author for comment #50
+Comment 50 was imported with author 2, but could not be found
+Could not find the author for comment #52
+Comment 52 was imported with author 5, but could not be found
+Could not find the author for comment #53
+Comment 53 was imported with author 2, but could not be found
+Could not find the author for comment #54
+Comment 54 was imported with author 12, but could not be found
+Could not find the author for comment #55
+Comment 55 was imported with author 5, but could not be found
+Could not find the author for comment #56
+Comment 56 was imported with author 2, but could not be found
+Could not find the author for comment #57
+Comment 57 was imported with author 5, but could not be found
+Could not find the author for comment #58
+Comment 58 was imported with author 5, but could not be found
+Could not find the author for comment #59
+Comment 59 was imported with author 12, but could not be found
+Could not find the author for comment #60
+Comment 60 was imported with author 5, but could not be found
+Could not find the author for comment #61
+Comment 61 was imported with author 12, but could not be found
+Could not find the author for comment #62
+Comment 62 was imported with author 5, but could not be found
+Could not find the author for comment #63
+Comment 63 was imported with author 2, but could not be found
+Could not find the author for comment #64
+Comment 64 was imported with author 5, but could not be found
+Could not find the author for comment #65
+Comment 65 was imported with author 12, but could not be found
+Could not find the author for comment #66
+Comment 66 was imported with author 5, but could not be found
+Could not find the author for comment #67
+Comment 67 was imported with author 2, but could not be found
+Could not find the author for comment #68
+Comment 68 was imported with author 2, but could not be found
+Could not find the author for comment #69
+Comment 69 was imported with author 2, but could not be found
+Could not find the author for comment #70
+Comment 70 was imported with author 2, but could not be found
+Could not find the author for comment #71
+Comment 71 was imported with author 5, but could not be found
+Could not find the author for comment #72
+Comment 72 was imported with author 5, but could not be found
+Could not find the author for comment #73
+Comment 73 was imported with author 5, but could not be found
+Could not find the author for comment #74
+Comment 74 was imported with author 5, but could not be found
+Could not find the author for comment #77
+Comment 77 was imported with author 2, but could not be found
+
+---
+
+3. Imported "Site Options"  - 22:38:25 UTC
+
+---
+
+4. Importing "Widgets"  - 22:38:35 UTC
+Sidebar: sidebar-1
+Widget: "Rechercher un produit" - Widget already exists
+Widget: "Catégories de produit" - Widget already exists
+Widget: "Filtrer les produits par prix" - Widget already exists
+Widget: "Filtrer les produits par attribut" - Widget already exists
+Widget: "Filtrer les produits par attribut" - Widget already exists
+Sidebar: advanced-footer-widget-1
+Widget: "Menu de navigation" - Widget already exists
+Sidebar: advanced-footer-widget-2
+Widget: "Menu de navigation" - Widget already exists
+Sidebar: advanced-footer-widget-3
+Widget: "Menu de navigation" - Widget already exists
+Sidebar: advanced-footer-widget-4
+Widget: "Texte" - Widget already exists
+Sidebar: astra-woo-shop-sidebar
+Widget: "Rechercher un produit" - Widget already exists
+Widget: "Produits par note obtenue" - Widget already exists
+Widget: "Catégories de produit" - Widget already exists
+Widget: "Filtrer les produits par prix" - Widget already exists
+
+---
+
+Import Complete!  - 22:38:37 UTC
