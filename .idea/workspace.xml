@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9922b31f-c0a1-40f0-bf91-08be670b685f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-1037.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-43.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-43.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-768.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-768.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-includes/wp-tmp.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/wp-tmp.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,19 +13,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/hello.php">
+        <entry file="file://$PROJECT_DIR$/wp-admin/css/nav-menus-rtl.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            <state relative-caret-position="210">
+              <caret line="85" column="16" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/style.css">
+        <entry file="file://$PROJECT_DIR$/wp-content/uploads/wp-megamenu/wp-megamenu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="1168" column="14" selection-start-line="1168" selection-start-column="14" selection-end-line="1168" selection-end-column="14" />
+            <state>
+              <caret column="284" lean-forward="true" selection-start-column="284" selection-end-column="284" />
             </state>
           </provider>
         </entry>
@@ -38,11 +34,23 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>style.min.css</find>
       <find>entry-title</find>
       <find>itemprop=&quot;h</find>
       <find>.sub-menu</find>
       <find>hiddenBtn</find>
+      <find>ast-flex main-header-container</find>
+      <find>mega-menu menu-it</find>
+      <find>http://demo.themeum.com/wordpress/wp-megamenu/wp-content/uploads/2017/07/brand-logo.png&quot;</find>
+      <find>&quot;wpmm_orientation_align&quot;;s:20:&quot;wpmm_horizontal_left&quot;;s:24:&quot;wpmm_vertical_menu_width&quot;;s:5:&quot;220px&quot;;s:29:&quot;wpmm_vertical_container_width&quot;;s:6:&quot;1140px&quot;;s:6:&quot;zindex&quot;;s:4:&quot;9999&quot;;s:19:&quot;dropdown_arrow_down&quot;;s:13:&quot;fa-angle-down&quot;;s:19:&quot;dropdown_arrow_left&quot;;s:13:&quot;fa-angle-left&quot;;s:20:&quot;dropdown_arrow_right&quot;;s:14:&quot;fa-angle-right&quot;;s:10:&quot;brand_logo&quot;;s:87:&quot;</find>
+      <find>http://demo.themeum.com/wordpress/</find>
+      <find>http://demo.themeum.com/wordpress/wp-megamenu/wp-content/uploads/2017/07/brand-logo.png</find>
+      <find>http</find>
+      <find>#wp-megamenu-primary&gt;.wpmm-nav-wrap .wpmm_brand_logo_wrap img</find>
+      <find>height</find>
+      <find>style.min.css</find>
+      <find>#fbfbfb</find>
+      <find>#wp-megamenu-primary</find>
+      <find>img</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -56,14 +64,16 @@
         <option value="$PROJECT_DIR$/wp-content/themes/astra/inc/blog/blog.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/astra/template-parts/content-page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentynineteen/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wp-megamenu/installation/class.wp-megamenu-initial-setup.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wp-megamenu/assets/css/wpmm-admin.css" />
+        <option value="$PROJECT_DIR$/wp-admin/css/nav-menus.css" />
+        <option value="$PROJECT_DIR$/wp-content/uploads/wp-megamenu/wp-megamenu.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="428" />
-    <option name="y" value="272" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
-    <option name="height" value="1027" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -88,6 +98,30 @@
               <item name="wordpress" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-megamenu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-megamenu" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-megamenu" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -133,15 +167,15 @@
       <workItem from="1550248580388" duration="1725000" />
       <workItem from="1550353930949" duration="2040000" />
       <workItem from="1550434029138" duration="170000" />
-      <workItem from="1550502596562" duration="654000" />
+      <workItem from="1550502596562" duration="2727000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4878000" />
+    <option name="totallyTimeSpent" value="6951000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="428" y="272" width="1680" height="1027" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
@@ -157,7 +191,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.34545454" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -220,6 +254,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/astra/template-parts/header/header-main-layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="1191" selection-start-line="1191" selection-end-line="1191" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/hello.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -227,10 +275,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/style.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-megamenu/installation/class.wp-megamenu-initial-setup.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="1168" column="14" selection-start-line="1168" selection-start-column="14" selection-end-line="1168" selection-end-column="14" />
+        <state relative-caret-position="338">
+          <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-megamenu/assets/css/wpmm.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18095">
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce-dynamic-gallery/admin/less/compile_less_sass_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="69" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-megamenu/assets/css/wpmm-admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="701" column="17" selection-start-line="701" selection-start-column="17" selection-end-line="701" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/css/nav-menus.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="85" column="16" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/css/nav-menus-rtl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="85" column="16" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/uploads/wp-megamenu/wp-megamenu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="284" lean-forward="true" selection-start-column="284" selection-end-column="284" />
         </state>
       </provider>
     </entry>
