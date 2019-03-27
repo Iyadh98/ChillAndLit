@@ -5659,7 +5659,7 @@ msgstr "%1$s a détecté que vous utiliser la version de %2$s de %3$s. Veuillez 
 
 #: admin/class-admin-init.php:202
 msgid "Just another WordPress site"
-msgstr "Un site utilisant WordPress"
+msgstr ""
 
 #. translators: 1: link open tag; 2: link close tag.
 #: admin/class-admin-init.php:106

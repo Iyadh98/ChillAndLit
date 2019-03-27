@@ -308,7 +308,7 @@ if ( ! class_exists('wp_megamenu')) {
 			//Menu Search bar enable from here
             if ($enable_search_bar == 'true' && $depth == 0 && $item->type === 'wpmm_search_form'){
                 $item_output = "
-                    <a href='#'> <i class='fa fa-search wpmm_search_icon'></i></a> $search_form
+                    $search_form
                 ";
             }
 

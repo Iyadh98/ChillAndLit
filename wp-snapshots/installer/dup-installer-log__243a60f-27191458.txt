@@ -1,0 +1,227 @@
+********************************************************************************
+* DUPLICATOR-LITE: Install-Log
+* STEP-1 START @ 07:30:30
+* VERSION: 1.3.10
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PHP:		7.2.10 | SAPI: apache2handler
+PHP MEMORY:	4294967296 | SUHOSIN: disabled
+SERVER:		Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.10 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0
+DOC ROOT:	/Applications/MAMP/htdocs/ChillAndLit
+DOC ROOT 755:	true
+LOG FILE 644:	true
+REQUEST URL:	http://localhost/ChillAndLit/dup-installer/main.installer.php
+SAFE MODE :	0
+CONFIG MODE :	NEW
+--------------------------------------
+PRE-EXTRACT-CHECKS
+--------------------------------------
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME:	20190327_chillandlit_243a60f4a60fcab99012_20190327191458_archive.zip
+SIZE:	227.48MB
+
+ZIP:	Shell Exec Unzip
+>>> Starting Shell-Exec Unzip:
+Command: unzip -o -qq '/Applications/MAMP/htdocs/ChillAndLit/20190327_chillandlit_243a60f4a60fcab99012_20190327191458_archive.zip' -d '/Applications/MAMP/htdocs/ChillAndLit' 2>&1
+<<< Shell-Exec Unzip Complete.
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+PERMISSION UPDATES:
+    -DIRS:  '755'
+    -FILES: '644'
+
+STEP-1 COMPLETE @ 07:30:46 - RUNTIME: 16.2637 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 07:31:59
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.7.23 -- Build Server: 5.7.23
+FILE SIZE:	dup-database__243a60f-27191458.sql (3.31MB)
+TIMEOUT:	5000
+MAXPACK:	4194304
+SQLMODE:	ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[/Applications/MAMP/htdocs/ChillAndLit/dup-installer/dup-installer-data__243a60f-27191458.sql]
+COLLATE FB:	Off
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	45
+RENAMED TABLES:	0
+QUERIES RAN:	5152
+
+wp_commentmeta: (2)
+wp_comments: (12)
+wp_duplicator_packages: (0)
+wp_links: (0)
+wp_newsletter: (1)
+wp_newsletter_emails: (0)
+wp_newsletter_sent: (0)
+wp_newsletter_stats: (0)
+wp_newsletter_user_logs: (1)
+wp_nextend2_image_storage: (8)
+wp_nextend2_section_storage: (14)
+wp_nextend2_smartslider3_generators: (0)
+wp_nextend2_smartslider3_sliders: (5)
+wp_nextend2_smartslider3_sliders_xref: (4)
+wp_nextend2_smartslider3_slides: (9)
+wp_options: (478)
+wp_postmeta: (3103)
+wp_posts: (397)
+wp_term_relationships: (247)
+wp_term_taxonomy: (57)
+wp_termmeta: (45)
+wp_terms: (57)
+wp_usermeta: (168)
+wp_users: (7)
+wp_wc_download_log: (0)
+wp_wc_webhooks: (0)
+wp_wcpdf_invoice_number: (2)
+wp_woocommerce_api_keys: (0)
+wp_woocommerce_attribute_taxonomies: (2)
+wp_woocommerce_downloadable_product_permissions: (0)
+wp_woocommerce_log: (0)
+wp_woocommerce_order_itemmeta: (99)
+wp_woocommerce_order_items: (11)
+wp_woocommerce_payment_tokenmeta: (0)
+wp_woocommerce_payment_tokens: (0)
+wp_woocommerce_sessions: (2)
+wp_woocommerce_shipping_zone_locations: (0)
+wp_woocommerce_shipping_zone_methods: (0)
+wp_woocommerce_shipping_zones: (0)
+wp_woocommerce_tax_rate_locations: (0)
+wp_woocommerce_tax_rates: (0)
+wp_yoast_seo_links: (38)
+wp_yoast_seo_meta: (248)
+wp_ywcars_messagemeta: (0)
+wp_ywcars_messages: (0)
+Removed '87' cache/transient rows
+
+INSERT DATA RUNTIME: 2.1099 sec.
+STEP-2 COMPLETE @ 07:32:01 - RUNTIME: 2.1246 sec.
+
+
+
+********************************************************************************
+DUPLICATOR-LITE INSTALL-LOG
+STEP-3 START @ 07:32:24
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	utf8
+CHARSET CLIENT:	utf8
+
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+wp_commentmeta~ (2)
+wp_comments~ (12)
+wp_duplicator_packages^ (0)
+wp_links^ (0)
+wp_newsletter~ (1)
+wp_newsletter_emails^ (0)
+wp_newsletter_sent^ (0)
+wp_newsletter_stats^ (0)
+wp_newsletter_user_logs~ (1)
+wp_nextend2_image_storage~ (8)
+wp_nextend2_section_storage~ (14)
+wp_nextend2_smartslider3_generators^ (0)
+wp_nextend2_smartslider3_sliders~ (5)
+wp_nextend2_smartslider3_sliders_xref~ (4)
+wp_nextend2_smartslider3_slides~ (9)
+wp_options~ (478)
+wp_postmeta~ (3103)
+wp_posts~ (397)
+wp_term_relationships~ (247)
+wp_term_taxonomy~ (57)
+wp_termmeta~ (45)
+wp_terms~ (57)
+wp_usermeta~ (168)
+wp_users~ (7)
+wp_wc_download_log^ (0)
+wp_wc_webhooks^ (0)
+wp_wcpdf_invoice_number~ (2)
+wp_woocommerce_api_keys^ (0)
+wp_woocommerce_attribute_taxonomies~ (2)
+wp_woocommerce_downloadable_product_permissions^ (0)
+wp_woocommerce_log^ (0)
+wp_woocommerce_order_itemmeta~ (99)
+wp_woocommerce_order_items~ (11)
+wp_woocommerce_payment_tokenmeta^ (0)
+wp_woocommerce_payment_tokens^ (0)
+wp_woocommerce_sessions~ (2)
+wp_woocommerce_shipping_zone_locations^ (0)
+wp_woocommerce_shipping_zone_methods^ (0)
+wp_woocommerce_shipping_zones^ (0)
+wp_woocommerce_tax_rate_locations^ (0)
+wp_woocommerce_tax_rates^ (0)
+wp_yoast_seo_links~ (38)
+wp_yoast_seo_meta~ (248)
+wp_ywcars_messagemeta^ (0)
+wp_ywcars_messages^ (0)
+--------------------------------------
+Search1:	'/Applications/MAMP/htdocs/wordpress' 
+Change1:	'/Applications/MAMP/htdocs/ChillAndLit' 
+Search2:	'\/Applications\/MAMP\/htdocs\/wordpress' 
+Change2:	'\/Applications\/MAMP\/htdocs\/ChillAndLit' 
+Search3:	'%2FApplications%2FMAMP%2Fhtdocs%2Fwordpress%2F' 
+Change3:	'%2FApplications%2FMAMP%2Fhtdocs%2FChillAndLit%2F' 
+Search4:	'\Applications\MAMP\htdocs\wordpress' 
+Change4:	'/Applications/MAMP/htdocs/ChillAndLit' 
+Search5:	'\\Applications\\MAMP\\htdocs\\wordpress' 
+Change5:	'\/Applications\/MAMP\/htdocs\/ChillAndLit' 
+Search6:	'%5CApplications%5CMAMP%5Chtdocs%5Cwordpress' 
+Change6:	'%2FApplications%2FMAMP%2Fhtdocs%2FChillAndLit' 
+Search7:	'//localhost:8888/wordpress' 
+Change7:	'//localhost:8888/ChillAndLit' 
+Search8:	'\/\/localhost:8888\/wordpress' 
+Change8:	'\/\/localhost:8888\/ChillAndLit' 
+Search9:	'%2F%2Flocalhost%3A8888%2Fwordpress' 
+Change9:	'%2F%2Flocalhost%3A8888%2FChillAndLit' 
+Search10:	'https://localhost' 
+Change10:	'http://localhost' 
+Search11:	'https:\/\/localhost' 
+Change11:	'http:\/\/localhost' 
+Search12:	'https%3A%2F%2Flocalhost' 
+Change12:	'http%3A%2F%2Flocalhost' 
+SCANNED:	Tables:45 	|	 Rows:5017 	|	 Cells:27673 
+UPDATED:	Tables:4 	|	 Rows:309 	|	 Cells:379 
+ERRORS:		0 
+RUNTIME:	0.647300 sec
+
+====================================
+CONFIGURATION FILE UPDATES:
+====================================
+
+UPDATED WP-CONFIG ARK FILE:
+ - '/Applications/MAMP/htdocs/ChillAndLit/wp-config.php'
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache 'htaccess.orig' was removed
+
+====================================
+NOTICES
+====================================
+
+No General Notices Found
+
+
+STEP-3 COMPLETE @ 07:32:25 - RUNTIME: 0.6687 sec. 
+
+
